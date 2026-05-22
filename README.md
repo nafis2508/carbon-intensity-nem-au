@@ -39,12 +39,18 @@ Our findings aimed to guide both household and business users on how to reduce t
 
 - `notebooks/`
   - Jupyter notebooks for data cleaning, analysis, and visualization.
-- `data/`
-  - Scripts to fetch and merge CSIRO Emissions Intensity API data.
+- `data_collection/`
+  - Notebook and scripts used to retrieve and prepare NEM API data.
 - `visualizations/`
   - Plots illustrating intra-daily carbon intensity patterns, time-of-day emission curves, and supply curves by generation type.
 - `reports/`
   - Summaries of insights used in our final presentation and report.
+
+---
+
+## Data Availability
+
+The original dataset and API credentials are not included in this repository due to privacy, licensing, and access restrictions. This repository contains the analysis notebooks, methodology, visualisations, and reports for portfolio and reproducibility purposes.
 
 ---
 
