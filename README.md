@@ -103,11 +103,29 @@ This project uses carbon emission intensity and electricity generation data sour
 
 ### Intra-Daily Regional Emission Patterns
 
+<p align="center">
+  <img src="assets/intra_daily_emission_curve.png" width="850"/>
+</p>
+
 - NSW, VIC, and QLD showed strong morning and evening emission peaks aligned with residential and industrial demand.
 - SA and TAS maintained significantly lower midday emissions due to stronger renewable integration.
 - Fossil-fuel dominant regions exhibited consistently higher baseline emissions throughout the day.
 
+### Hourly Carbon Emission Heatmap
+
+<p align="center">
+  <img src="assets/heatmap_analysis.png" width="850"/>
+</p>
+
+- Victoria displayed the highest and most persistent carbon intensity throughout the day.
+- Tasmania maintained the lowest midday emissions due to hydroelectric generation.
+- Heatmap patterns highlighted the relationship between demand peaks and fossil-fuel dependence.
+
 ### South Australia as a Renewable Benchmark
+
+<p align="center">
+  <img src="assets/sa_benchmark.png" width="850"/>
+</p>
 
 - South Australia demonstrated one of the most balanced low-emission profiles across the NEM.
 - Renewable-heavy generation reduced carbon intensity during peak demand periods.
@@ -115,11 +133,19 @@ This project uses carbon emission intensity and electricity generation data sour
 
 ### Household vs Company Emissions
 
+<p align="center">
+  <img src="assets/household_vs_company.png" width="850"/>
+</p>
+
 - Business operating hours aligned closely with high-emission periods across most regions.
 - Household electricity usage during non-peak periods showed noticeably lower average carbon intensity.
 - Tasmania and South Australia maintained relatively balanced emission levels across both user types.
 
 ### Forecasting Analysis
+
+<p align="center">
+  <img src="assets/forecasted_graphs.png" width="850"/>
+</p>
 
 - Forecasting results showed NSW maintaining consistently high projected emissions into 2026.
 - South Australia displayed greater short-term variability but significantly lower long-term carbon intensity.
