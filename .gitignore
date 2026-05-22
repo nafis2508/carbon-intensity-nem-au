@@ -1,3 +1,6 @@
+# macOS system files
+.DS_Store
+
 # Ignore API credential notebook
 notebooks/Business Analytics Project Question 2 dataset Download.ipynb
 
@@ -20,5 +23,3 @@ data/
 __pycache__/
 *.pyc
 
-# System files
-.DS_Store
